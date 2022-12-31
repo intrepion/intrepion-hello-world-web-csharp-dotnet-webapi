@@ -24,6 +24,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\HelloWorldLibrary\HelloWorldLibrary.csproj" />
+    <ProjectReference Include="..\HelloWorldWebApi\HelloWorldWebApi.csproj" />
   </ItemGroup>
 
 </Project>
