@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorldLibrary", "HelloWorldLibrary\HelloWorldLibrary.csproj", "{D99A081A-4CE3-4253-92B6-206F016C59A6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorldWebApi", "HelloWorldWebApi\HelloWorldWebApi.csproj", "{84377AF5-FE8E-49EC-9D95-11A23B1B4E5A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{D99A081A-4CE3-4253-92B6-206F016C59A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D99A081A-4CE3-4253-92B6-206F016C59A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D99A081A-4CE3-4253-92B6-206F016C59A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84377AF5-FE8E-49EC-9D95-11A23B1B4E5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84377AF5-FE8E-49EC-9D95-11A23B1B4E5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84377AF5-FE8E-49EC-9D95-11A23B1B4E5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84377AF5-FE8E-49EC-9D95-11A23B1B4E5A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
